@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(420): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(426): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(430): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(435): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(442): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(448): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(452): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(457): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(812): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(818): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(822): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(828): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(832): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(838): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(848): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(869): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(873): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimoe\source\repos\crazy plane\crazy plane\source.cpp(878): warning C4018: '<': signed/unsigned mismatch
+  Crazy Plane.vcxproj -> C:\Users\mimoe\source\repos\Crazy Plane\Debug\Crazy Plane.exe
